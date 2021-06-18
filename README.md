@@ -1,16 +1,28 @@
 ### Hi there 👋
 
-<!--
-**AkideLiu/AkideLiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am Akide Liu
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=AkideLiu&label=Profile%20views&color=0e75b6&style=flat" alt="AkideLiu" /> 
+
+
+- I'm currently in field of Computer Science
+- Preferable Programming Language -- Java
+- Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
+- Currently on the way to a beginner level coder
+- VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 
+- Contact : mail (at) llycloud (dot) com
+
+  <br /> 
+
+<p align="center">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=AkideLiu&theme=vue-dark&show_icons=true&locale=en" alt="AkideLiu" />
+
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkideLiu&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100" alt="AkideLiu" />
+</p>
+  <br /> <br /> 
+
+
+  <img src="https://activity-graph.herokuapp.com/graph?username=AkideLiu&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+
