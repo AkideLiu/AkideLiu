@@ -31,9 +31,9 @@
 ![CLion](https://img.shields.io/static/v1?label=CLion&message=2021.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=AkideLiu&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/static/v1?label=Kubernetes&message=^1.16+&color=239120&style=for-the-badge&logo=Kubernetes)
-![vSphere Stack](https://img.shields.io/static/v1?label=vSphere%20Stack&message=^6.0+&color=F7DF1E&style=for-the-badge&logo=VMware)
-![Rancher](https://img.shields.io/static/v1?label=Rancher&message=^2.4.x+&color=F7DF1E&style=for-the-badge&logo=Rancher)
+![Kubernetes](https://img.shields.io/static/v1?label=Kubernetes&message=1.18+&color=239120&style=for-the-badge&logo=Kubernetes)
+![vSphere Stack](https://img.shields.io/static/v1?label=vSphere%20Stack&message=7.0U2+&color=F7DF1E&style=for-the-badge&logo=VMware)
+![Rancher](https://img.shields.io/static/v1?label=Rancher&message=^2.5.x+&color=007ACC&style=for-the-badge&logo=Rancher)
 
   <br /> 
 
