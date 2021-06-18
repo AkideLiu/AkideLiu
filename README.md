@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkideLiu&label=Profile%20views&color=0e75b6&style=flat" alt="AkideLiu" /> 
 
 - I'm currently in field of Computer Science
-- Preferable Programming Language -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=for-the-badge&logo=java)
+- Preferable Programming Language -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=flat&logo=java)
 - Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
 - Currently on the way to a beginner level coding monkey (程序猿)
 - VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 
