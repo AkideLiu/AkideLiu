@@ -7,7 +7,7 @@
 - I'm currently in field of Computer Science
 - Preferable Programming Language -- Java
 - Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
-- Currently on the way to a beginner level coding monkey (码农)
+- Currently on the way to a beginner level coding monkey (程序猿)
 - VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 
 - Contact : mail (at) llycloud (dot) com
 
@@ -24,12 +24,16 @@
 ![typeorm](https://img.shields.io/static/v1?label=typeorm&message=typeorm&color=F7DF1E&style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
 
+
 ### Tech I use
 
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2021.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![CLion](https://img.shields.io/static/v1?label=CLion&message=2021.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=AkideLiu&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/static/v1?label=Kubernetes&message=^1.16+&color=239120&style=for-the-badge&logo=Kubernetes)
+![vSphere Stack](https://img.shields.io/static/v1?label=vSphere%20Stack&message=^6.0+&color=F7DF1E&style=for-the-badge&logo=VMware)
+![Rancher](https://img.shields.io/static/v1?label=Rancher&message=^2.4.x+&color=F7DF1E&style=for-the-badge&logo=Rancher)
 
   <br /> 
 
