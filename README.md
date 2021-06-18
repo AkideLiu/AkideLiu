@@ -17,9 +17,9 @@
   <br /> 
 
 <p align="center">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api?username=AkideLiu&theme=vue-dark&show_icons=true&locale=en" alt="AkideLiu" />
+  <img align="center"  src="https://grs.quantumly.dev/api?username=AkideLiu&theme=vue-dark&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&locale=en&include_all_commits=true&extra=UAws/COVID_contact_tracing_system,OOP-Project,LMS-Spring,LMS-Vue" alt="AkideLiu" />
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AkideLiu&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100" alt="AkideLiu" />
+  <img align="center" src="https://grs.quantumly.dev/api/top-langs?username=AkideLiu&layout=compact&show_icons=true&locale=en&hide=''&langs_count=100&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&extra=UAws/COVID_contact_tracing_system,OOP-Project,LMS-Spring,LMS-Vue" alt="AkideLiu" />
 </p>
   <br /> <br /> 
 
