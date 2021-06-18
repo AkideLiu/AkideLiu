@@ -7,7 +7,7 @@
 - I'm currently in field of Computer Science
 - Preferable Programming Language -- Java
 - Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
-- Currently on the way to a beginner level coder
+- Currently on the way to a beginner level coding monkey (码农)
 - VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 
 - Contact : mail (at) llycloud (dot) com
 
