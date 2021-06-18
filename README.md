@@ -16,12 +16,13 @@
 ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=for-the-badge&logo=java)
 ![Cpp](https://img.shields.io/static/v1?label=Cpp&message=Cpp11&color=F7DF1E&style=for-the-badge&logo=Cpp)
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=007ACC&style=for-the-badge&logo=JavaScript)
-![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
+
 
 ### Libraries || Frameworks I use
 
 ![Spring Boot](https://img.shields.io/static/v1?label=Spring&snapBoot&message=Spring%20Boot%20^2.3.x&color=007396&style=for-the-badge&logo=Spring&snapBoot)
 ![typeorm](https://img.shields.io/static/v1?label=typeorm&message=typeorm&color=F7DF1E&style=for-the-badge&logo=typescript)
+![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
 
 ### Tech I use
 
