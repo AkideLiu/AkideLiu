@@ -7,8 +7,8 @@
 - I'm currently in field of Software Engineering
 - Preferable Programming Language -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=flat&logo=java)
 - Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
-- Currently on the way to be a beginner level coding monkey (程序猿)
-- VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 
+- Currently on the way to be a Software Engineer
+- VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 7
 - Contact : mail (at) llycloud (dot) com
 
 ### Languages I Know
