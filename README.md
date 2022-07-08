@@ -4,11 +4,16 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkideLiu&label=Profile%20views&color=0e75b6&style=flat" alt="AkideLiu" /> 
 
-- I'm currently in field of Software Engineering
-- Preferable Programming Language -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=flat&logo=java)
-- Incredible passionate on Virtualization, Containerization and Cloud computing, Distributed Computing
-- Currently on the way to be a Software Engineer
-- VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 7
+- I'm currently in field of Computer Vision Research
+- Check out my recent semantic segmentation work at [CV′3315 Is All You Need](https://github.com/UAws/CV-3315-Is-All-You-Need)
+- Check out my machine learning and computer vision related coursework at   <a href="https://jovian.ai/akide/notebooks">
+    <img src="https://img.shields.io/badge/Jovian.Ai-Open%20In%20Jovian-green"/>
+  </a>
+- Preferable Programming Language (Engineering) -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=flat&logo=java)
+- Preferable Programming Language (Research) -- ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=flat&logo=Python)
+- Interested in machine learning, artificial intelligence, and Computer Vision. 
+- Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
+- Certificates : VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 7
 - Contact : mail (at) llycloud (dot) com
 
 ### Languages I Know
@@ -16,10 +21,14 @@
 ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=for-the-badge&logo=java)
 ![Cpp](https://img.shields.io/static/v1?label=Cpp&message=Cpp11&color=F7DF1E&style=for-the-badge&logo=C)
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=007ACC&style=for-the-badge&logo=JavaScript)
+![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=for-the-badge&logo=Python)
 
 
 ### Libraries || Frameworks I use
 
+![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.11.0&color=007396&style=for-the-badge&logo=PyTorch)
+![mmsegmentation](https://img.shields.io/static/v1?label=mmsegmentation&message=0.25.0&color=007396&style=for-the-badge&logo=PyTorch)
+![Keras](https://img.shields.io/static/v1?label=Keras&message=2.9.0&color=007396&style=for-the-badge&logo=Keras)
 ![Spring Boot](https://img.shields.io/static/v1?label=Spring&snapBoot&message=Spring%20Boot%20^2.3.x&color=007396&style=for-the-badge&logo=Spring&snapBoot)
 ![typeorm](https://img.shields.io/static/v1?label=typeorm&message=typeorm&color=F7DF1E&style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
@@ -27,8 +36,9 @@
 
 ### Tech I use
 
-![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2021.1&style=for-the-badge&color=000000&logo=intellij-idea)
-![CLion](https://img.shields.io/static/v1?label=CLion&message=2021.1&style=for-the-badge&color=000000&logo=intellij-idea)
+![PyChram](https://img.shields.io/static/v1?label=PyChram&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
+![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
+![CLion](https://img.shields.io/static/v1?label=CLion&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=AkideLiu&color=181717&style=for-the-badge&logo=github)
 ![Docker](https://img.shields.io/static/v1?label=Docker&message=🐳&color=4285F4&style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/static/v1?label=Kubernetes&message=1.18+&color=239120&style=for-the-badge&logo=Kubernetes)
