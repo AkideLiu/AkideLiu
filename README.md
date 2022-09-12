@@ -9,11 +9,9 @@
 - Check out my machine learning and computer vision related coursework at   <a href="https://jovian.ai/akide/notebooks">
     <img src="https://img.shields.io/badge/Jovian.Ai-Open%20In%20Jovian-green"/>
   </a>
-- Preferable Programming Language (Engineering) -- ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=flat&logo=java)
 - Preferable Programming Language (Research) -- ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=flat&logo=Python)
 - Interested in machine learning, artificial intelligence, and Computer Vision. 
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
-- Certificates : VMware [vExpert](https://vexpert.vmware.com/directory/7041) 2021, RHCE 7
 - Contact : mail (at) llycloud (dot) com
 
 ### Languages I Know
