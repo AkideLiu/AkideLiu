@@ -1,4 +1,4 @@
-## I am Akide Liu
+<h2> I am Akide Liu </h2>
 
 
 
@@ -14,26 +14,35 @@
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
 - Contact : mail (at) llycloud (dot) com
 
-### Languages I Know
+<details>
+
+<summary>
+    <h3>Languages I Know</h3>
+</summary>
+
 
 ![Java](https://img.shields.io/static/v1?label=Java&message=SE11&color=007396&style=for-the-badge&logo=java)
 ![Cpp](https://img.shields.io/static/v1?label=Cpp&message=Cpp11&color=F7DF1E&style=for-the-badge&logo=C)
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=007ACC&style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=for-the-badge&logo=Python)
+        
+</details>
 
-
-### Libraries || Frameworks I use
-
+<details>
+<summary>
+    <h3>Libraries || Frameworks I use</h3>
+</summary> 
 ![PyTorch](https://img.shields.io/static/v1?label=PyTorch&message=1.11.0&color=007396&style=for-the-badge&logo=PyTorch)
 ![mmsegmentation](https://img.shields.io/static/v1?label=mmsegmentation&message=0.25.0&color=007396&style=for-the-badge&logo=PyTorch)
 ![Keras](https://img.shields.io/static/v1?label=Keras&message=2.9.0&color=007396&style=for-the-badge&logo=Keras)
 ![Spring Boot](https://img.shields.io/static/v1?label=Spring&snapBoot&message=Spring%20Boot%20^2.3.x&color=007396&style=for-the-badge&logo=Spring&snapBoot)
 ![typeorm](https://img.shields.io/static/v1?label=typeorm&message=typeorm&color=F7DF1E&style=for-the-badge&logo=typescript)
 ![Vue](https://img.shields.io/static/v1?label=Vue&message=Vue2.x&color=239120&style=for-the-badge&logo=Vue)
-
-
-### Tech I use
-
+</details>
+<details>
+<summary>
+    <h3>Tech I use</h3>
+</summary> 
 ![PyChram](https://img.shields.io/static/v1?label=PyChram&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![IntelliJ](https://img.shields.io/static/v1?label=IntelliJ&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
 ![CLion](https://img.shields.io/static/v1?label=CLion&message=2022.1&style=for-the-badge&color=000000&logo=intellij-idea)
@@ -52,5 +61,8 @@
   <br /> <br /> 
 
 
-  <img src="https://activity-graph.herokuapp.com/graph?username=AkideLiu&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/>
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=AkideLiu&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/> -->
+    
+</details>
+
 
