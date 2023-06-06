@@ -14,9 +14,9 @@
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
 - Contact : mail (at) llycloud (dot) com
 
-<details>
+<!-- <details> -->
 
-<summary>
+<!-- <summary>
     <h3>Languages I Know</h3>
 </summary>
 
@@ -26,9 +26,9 @@
 ![JavaScript](https://img.shields.io/static/v1?label=JavaScript&message=ES6&color=007ACC&style=for-the-badge&logo=JavaScript)
 ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=for-the-badge&logo=Python)
         
-</details>
+</details> -->
 
-<details>
+<!-- <details>
 <summary>
     <h3>Libraries || Frameworks I use</h3>
 </summary> 
@@ -64,5 +64,5 @@
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=AkideLiu&theme=dracula&bg_color=20232a&hide_border=true" width="100%"/> -->
     
 </details>
-
+ -->
 
