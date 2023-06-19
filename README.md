@@ -12,7 +12,7 @@
 - Preferable Programming Language (Research) -- ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=flat&logo=Python)
 - Interested in machine learning, artificial intelligence, and Computer Vision. 
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
-- Contact : mail (at) llycloud (dot) com
+- Contact : mail+research (at) llycloud (dot) com
 
 <!-- <details> -->
 
