@@ -4,17 +4,19 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkideLiu&label=Profile%20views&color=0e75b6&style=flat" alt="AkideLiu" /> 
 
-- I'm currently in field of Computer Vision Research
-- Check out my recent semantic segmentation work at [CV′3315 Is All You Need](https://github.com/UAws/CV-3315-Is-All-You-Need)
-- Check out my machine learning and computer vision related coursework at   <a href="https://jovian.ai/akide/notebooks">
-    <img src="https://img.shields.io/badge/Jovian.Ai-Open%20In%20Jovian-green"/>
-  </a>
+- I'm currently in the field of Computer Vision Research
+- Check out my recent CV/NLP coursework at [CV′3315 Is All You Need](https://arxiv.org/abs/2206.12571) | [External Reasoning](https://arxiv.org/abs/2307.12057)
+- My primary research direction is AIGC including diffusion synthesis and large language models.
 - Preferable Programming Language (Research) -- ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=flat&logo=Python)
 - Interested in machine learning, artificial intelligence, and Computer Vision. 
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
 - Contact : mail+research (at) llycloud (dot) com
 
 <!-- <details> -->
+
+<!-- - Check out my machine learning and computer vision related coursework at   <a href="https://jovian.ai/akide/notebooks">
+    <img src="https://img.shields.io/badge/Jovian.Ai-Open%20In%20Jovian-green"/>
+  </a> -->
 
 <!-- <summary>
     <h3>Languages I Know</h3>
