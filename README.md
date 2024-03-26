@@ -6,8 +6,8 @@
 
 - I'm currently in the field of Computer Vision Research
 - My primary research direction is AIGC including diffusion synthesis and large language models.
-- Check out my recent research at [BPKD](https://arxiv.org/abs/2306.08075) | [SegViTv2](https://arxiv.org/abs/2306.06289)
-- Check out my recent CV/NLP/AML coursework at [CV′3315 Is All You Need](https://arxiv.org/abs/2206.12571) | [External Reasoning](https://arxiv.org/abs/2307.12057) | [Personalised Video Generation](https://aml.vmv.re/paper/PVG.pdf)
+- Check out my recent research at [Motion Mamba](https://steve-zeyu-zhang.github.io/MotionMamba/) | [BPKD](https://arxiv.org/abs/2306.08075) | [SegViTv2](https://arxiv.org/abs/2306.06289)
+- Check out my recent CV/NLP/AML coursework at  [CV′3315 Is All You Need](https://arxiv.org/abs/2206.12571) | [External Reasoning](https://arxiv.org/abs/2307.12057) | [Personalised Video Generation](https://aml.vmv.re/paper/PVG.pdf)
 - Preferable Programming Language (Research) -- ![Python](https://img.shields.io/static/v1?label=Python&message=3.8&color=007396&style=flat&logo=Python)
 - Interested in machine learning, artificial intelligence, and Computer Vision. 
 - Experienced in cloud computing and virtualization, including vSphere cluster, Kubernetes cluster, and rancher.
