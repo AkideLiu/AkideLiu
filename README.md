@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=AkideLiu&label=Profile%20views&color=0e75b6&style=flat" alt="AkideLiu" /> 
 
-- I'm currently in the field of Computer Vision Research
+- I'm currently in the field of Efficient Vision Large Language Modeling (vLLM) Research
 - My primary research direction is AIGC including diffusion synthesis and large language models.
 - Check out my recent research at [Motion Mamba](https://steve-zeyu-zhang.github.io/MotionMamba/) | [BPKD](https://arxiv.org/abs/2306.08075) | [SegViTv2](https://arxiv.org/abs/2306.06289)
 - Check out my recent CV/NLP/AML coursework at  [CV′3315 Is All You Need](https://arxiv.org/abs/2206.12571) | [External Reasoning](https://arxiv.org/abs/2307.12057) | [Personalised Video Generation](https://aml.vmv.re/paper/PVG.pdf)
